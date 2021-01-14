@@ -141,7 +141,6 @@ function pickMystery (){
     return mysteryBox
 }
 pickMystery()
-console.log(mysteryBox)
 
 
 // ITERATION 3
